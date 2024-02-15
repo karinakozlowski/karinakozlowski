@@ -16,6 +16,9 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 
 - **CAD Designer Teacher** at  [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
+- **3D Printer Teacher** at  [Instituto Tecnologico Beltrán](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+
+- **Proyect Manager** at [Gabiart](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
 ## Mis habilidades
