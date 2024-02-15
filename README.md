@@ -1,5 +1,5 @@
 
-
+<p>
 
 ## Hey, I'm Karina 👋  Data Scientist 📊
 
@@ -27,9 +27,9 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 - Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
 - Big Data: Hadoop, Spark
 - Orquestación y contenedores: Docker, Kubernet, Airflow
+</p>
 
 
-<p align="left"> 
 
     <div class="background:#fff; color:#fff">
         <h3>Ciencia de datos</h3>
@@ -54,7 +54,6 @@ Un profesional de datos apasionado por transformar información en conocimiento.
             <a> <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white" alt="scrum" width="80" height="40"/></a>
         </div>
     </div>
-</p>
 
 
 ## 📫 Contact
