@@ -4,8 +4,7 @@
 ## Hey, I'm Karina 👋  Data Scientist 📊
 
 
-Un profesional de datos apasionado por transformar información en conocimiento. A continuación, te presento algunas de las tecnologías con las que trabajo:
-
+A data professional passionate about transforming information into knowledge. Below, I present some of the technologies I work with:
 
 
 ## 💼 Experience
@@ -21,21 +20,21 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 - **Proyect Manager** at [Gabiart](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
-## Mis habilidades
+## My Skills
 
-- Lenguajes de programación: Python 
-- Análisis de datos:Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Tensorflow
-- Bases de datos: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
+- Programming languages: Python 
+- Data Analysis: Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Tensorflow
+- Databases:SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
 - Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
-- Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
+- Natural Language Processing (NLP): NLTK, Spacy
 - Big Data: Hadoop, Spark
-- Orquestación y contenedores: Docker, Kubernet, Airflow
+- Orchestration and containers: Docker, Kubernet, Airflow
 </p>
 
 
 
 <div style="background:#fff; color:#fff">
-    <h3>Ciencia de datos</h3>
+    <h3>Data Science</h3>
     <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
     <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
     <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
@@ -62,7 +61,7 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 ## 📫 Contact
 
 
-¡No dudes en contactarme si quieres discutir proyectos emocionantes o colaborar en iniciativas de datos!
+Feel free to contact me if you want to discuss exciting projects or collaborate on data initiatives!
 
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
