@@ -17,52 +17,44 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 - **CAD Designer Teacher** at  [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
-## Tecnologías Utilizadas
 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
+## Mis habilidades
 
-Deploy with Render
+- Lenguajes de programación: Python 
+- Análisis de datos:Power BI, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Tensorflow
+- Bases de datos: SQL, Supabase, Firebase, MongoDB, MySQL, PostgreSQL
+- Machine Learning: Regresión, Clasificación, Agrupamiento, Redes neuronales
+- Procesamiento de Lenguaje Natural (NLP): NLTK, Spacy
+- Big Data: Hadoop, Spark
+- Orquestación y contenedores: Docker, Kubernet, Airflow
 
-<img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
 
+<p align="left"> 
 
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    <div class="background:#fff; color:#fff">
+        <h3>Ciencia de datos</h3>
+        <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
+        <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+        <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
+        <img align="center" alt="R" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png">
+        <img align="center" alt="R" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png">
+        <img align="center" alt="R" height="50" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png">
+        <img align="center" alt="R" height="50" width="90" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png">
+        <img align="center" alt="R" height="45" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+        <img align="center" alt="R" height="45" width="80" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+    </div>
 
-### Bibliotecas y Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Herramientas de Visualización
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logo=seaborn&logoColor=white)
-
-## Data Engineer 🛠️
-
-### Bases de Datos
-![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Apache Hadoop Ecosystem
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-EC3C13?style=for-the-badge&logo=apache&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
-
-### Orquestación y Contenedores
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## Data Analyst 📉
-
-### Herramientas de BI y Visualización
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-
-### Procesamiento de Datos
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+    <div>
+        <h3>Extras</h3>
+        <div style="display:flex;gap:10px;">
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+            <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+            <a> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" width="80" height="40"/></a>
+            <a> <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white" alt="scrum" width="80" height="40"/></a>
+        </div>
+    </div>
+</p>
 
 
 ## 📫 Contact
