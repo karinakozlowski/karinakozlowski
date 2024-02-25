@@ -41,7 +41,7 @@ A data professional passionate about transforming information into knowledge. Be
 | N° | Language | Role  | Deployment | Project  | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |
 | 1. | Python | **Machine Engineer** | FastApi - Render | API Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
-| 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Road Accidents APP   | [Link](https://github.com/karinakozlowski/MLOPS_API) |
+| 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Road Accidents APP   | [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
 | 3. | Python | **Machine Enginee**r | Streamlit | Fintech Fraud Transactions | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
 
 <br/>
