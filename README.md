@@ -47,11 +47,8 @@ A data professional passionate about transforming information into knowledge. Be
 <br/>
 
 
-### Contribuciones Recientes 📊
 
-([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karinakozlowski&theme=material-palenight)](https://git.io/streak-stats))
-
-
+### Technical stack (non-exhaustive, non-ordered)
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -85,6 +82,15 @@ A data professional passionate about transforming information into knowledge. Be
         <a> <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white" alt="scrum" width="80" height="40"/></a>
     </div>
 </div>
+
+### Contribuciones Recientes 📊
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=karinakozlowski&theme=radical)](https://git.io/streak-stats)
+
+[![Karina Kozlowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinakozlowski&show_icons=true&theme=radical)](https://github.com/karinakozlowski)
+
+
+
 
 
 ## 📫 Contact
