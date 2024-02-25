@@ -31,6 +31,10 @@ A data professional passionate about transforming information into knowledge. Be
 - Orchestration and containers: Docker, Kubernet, Airflow
 </p>
 
+### Contribuciones Recientes 📊
+
+([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karinakozlowski&theme=material-palenight)](https://git.io/streak-stats))
+
 
 
 <div style="background:#fff; color:#fff">
