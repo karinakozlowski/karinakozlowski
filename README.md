@@ -35,8 +35,6 @@ A data professional passionate about transforming information into knowledge. Be
 <br>
 
 <p align="center">
-
-
 <br/>
 
 
