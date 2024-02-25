@@ -29,35 +29,22 @@ A data professional passionate about transforming information into knowledge. Be
 - Natural Language Processing (NLP): NLTK, Spacy
 - Big Data: Hadoop, Spark
 - Orchestration and containers: Docker, Kubernet, Airflow
+  
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Active Repos</b>
 <br>
-
 <p align="center">
 <br/>
-
-
+<br>
+ 
 | N° | Language | Role  | Deployment | Project  | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |
 | 1. | Python | **Machine Engineer** | FastApi - Render | API Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
 | 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Road Accidents APP   | [Link](https://github.com/karinakozlowski/MLOPS_API) |
 | 3. | Python | **Machine Enginee**r | Streamlit | Fintech Fraud Transactions | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 
 
 ### Contribuciones Recientes 📊
