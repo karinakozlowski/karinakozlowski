@@ -42,9 +42,11 @@ A data professional passionate about transforming information into knowledge. Be
 | ---- | --- | ---------- |---------- | --------- | ------------ |
 | 1. | Python | **Machine Engineer** | FastApi - Render | API Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
 | 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Road Accidents APP   | [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
-| 3. | Python | **Machine Enginee**r | Streamlit | Fintech Fraud Transactions | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
-| 4. | Python | **Machine Enginee**r | FastApi - Render | Tensorflow Model Traffic Classification | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
+| 3. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
+| 4. | Python | **Machine Engineer** | FastApi - Render | Tensorflow Model Traffic Classification | [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
+| 5. | Python | **Machine Engineer** | FastApi - Render | Spam Detector Model | [Link](https://github.com/karinakozlowski/Spam_Detector) |
 
+https://github.com/karinakozlowski/Spam_Detector
 <br/>
 
 
