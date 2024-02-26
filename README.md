@@ -46,7 +46,6 @@ A data professional passionate about transforming information into knowledge. Be
 | 4. | Python | **Machine Engineer** | FastApi - Render | Tensorflow Model Traffic Classification | [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
 | 5. | Python | **Machine Engineer** | FastApi - Render | Spam Detector Model | [Link](https://github.com/karinakozlowski/Spam_Detector) |
 
-https://github.com/karinakozlowski/Spam_Detector
 <br/>
 
 
@@ -96,12 +95,9 @@ https://github.com/karinakozlowski/Spam_Detector
 
 
 
-## 📫 Contact
-
+## 📫 Contact  karinakozlowski@gmail.com  https://www.linkedin.com/in/karina-kozlowski-625535217/
 
 Feel free to contact me if you want to discuss exciting projects or collaborate on data initiatives!
-
-
 [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
 
 
