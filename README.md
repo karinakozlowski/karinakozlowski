@@ -5,11 +5,18 @@
 
 
 A data professional passionate about transforming information into knowledge. Below, I present some of the technologies I work with:
+<div align="center">
+  <a href='https://www.linkedin.com/in/jimena-fioni/'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
+  </a>
+</div>
+
+
 
 
 ## 💼 Experience
 
- > 🚀  I'm Looking for a new role. If hiring, please reach out! &nbsp; [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...)
+ - 🚀  I'm Looking for a new role. If hiring, please reach out!
 
 -  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
