@@ -6,7 +6,7 @@
 
 A data professional passionate about transforming information into knowledge. Below, I present some of the technologies I work with:
 
-🚀  I'm Looking for a new role. If hiring, please reach out!
+🚀  I'm Looking for a new role. If hiring, please reach out!;
 
 <div align="center">
   <a href='https://www.linkedin.com/in/karina-kozlowski-625535217/'>
