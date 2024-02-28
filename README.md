@@ -45,13 +45,14 @@ A data professional passionate about transforming information into knowledge. Be
 <br/>
 <br>
  
-| N° | Language | Role  | Deployment | Project  | Link |
-| ---- | --- | ---------- |---------- | --------- | ------------ |
-| 1. | Python | **Machine Engineer** | FastApi - Render | API Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
-| 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Road Accidents APP   | [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
-| 3. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions | [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
-| 4. | Python | **Machine Engineer** | FastApi - Render | Tensorflow Model Traffic Classification | [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
-| 5. | Python | **Machine Engineer** | FastApi - Render | Spam Detector Model | [Link](https://github.com/karinakozlowski/Spam_Detector) |
+| N° | Language | Role  | Deployment | Project  |  Client | Link |
+| ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
+| 1. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
+| 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
+| 3. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
+| 4. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
+| 5. | Python | **Machine Engineer** | FastApi | Tensorflow Model Traffic Classification |Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
+| 6. | Python | **Machine Engineer** | FastApi  | Spam Detector Model | Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Spam_Detector) |
 
 <br/>
 
