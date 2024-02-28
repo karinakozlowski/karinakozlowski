@@ -1,23 +1,22 @@
-
+![Banner](Assets1/Banner_Linkedin.png)
 <p>
 
-## Hey, I'm Karina 👋  Data Scientist 📊
+
 
 
 A data professional passionate about transforming information into knowledge. Below, I present some of the technologies I work with:
 
 🚀  I'm Looking for a new role. If hiring, please reach out!;
 
-<div align="center">
+
+
+## 💼 **Experience**  
+
+<div style="text-align: left;">
   <a href='https://www.linkedin.com/in/karina-kozlowski-625535217/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
-
-
-
-
-## 💼 Experience
 
 -  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
