@@ -98,7 +98,6 @@
 
 
 
-
 ## 📫 Contact 
 
 
@@ -112,13 +111,6 @@ https://www.linkedin.com/in/karina-kozlowski-625535217/
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
 https://discord.gg/SXzbtvSX
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
