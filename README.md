@@ -5,17 +5,11 @@
 
 
 
-🚀  I'm Looking for a new role. If hiring, please reach out!;
-
-
 
 ## 💼 **Experience**  
 
-<div style="text-align: left;">
-  <a href='https://www.linkedin.com/in/karina-kozlowski-625535217/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
-</div>
+
+🚀  I'm Looking for a new role. If hiring, please reach out!;
 
 -  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
@@ -86,15 +80,6 @@
 | 6. | Python | **Machine Engineer** | FastApi  | Spam Detector Model | Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Spam_Detector) |
 
 <br/>
-
-
-
-### Contribuciones Recientes 📊
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=karinakozlowski&theme=radical)](https://git.io/streak-stats)
-
-[![Karina Kozlowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinakozlowski&show_icons=true&theme=radical)](https://github.com/karinakozlowski)
-
 
 
 
