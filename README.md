@@ -101,12 +101,16 @@
  
 | N° | Language | Role  | Deployment | Project  |  Client | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
-| 1. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
-| 2. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
-| 3. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
-| 4. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
-| 5. | Python | **Machine Engineer** | FastApi | Tensorflow Model Traffic Classification |Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
-| 6. | Python | **Machine Engineer** | FastApi  | Spam Detector Model | Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Spam_Detector) |
+| 1. | Python | **Data Engineer** | AWS | APP | Tesla | [Link](https://github.com/Data-Synergy/EcoDriverNY) |
+| 2. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
+| 3. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
+| 4. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/karinakozlowski/Fintech_Solutions) |
+| 5. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
+| 6. | Python | **Machine Engineer** | FastApi | Tensorflow Model Traffic Classification |Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
+| 7. | Python | **Machine Engineer** | FastApi  | Spam Detector Model | Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Spam_Detector) |
+
+
+
 
 <br/>
 
