@@ -71,23 +71,6 @@
 
 
 
-
-
-
-
-
-## My Interests
-- 🤖 Machine Learning: I love exploring and applying machine learning models to solve real-world problems.
-- 📊 Data Analysis: I enjoy exploring datasets, identifying trends, and generating actionable insights.
-- 🚀 Practical Projects: I like working on projects that have a real impact and are goal-oriented.
-
-
-
-
-
-
-
-
   
   
 </p>
