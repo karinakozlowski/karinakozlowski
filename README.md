@@ -10,10 +10,11 @@
 
 
 🚀  I'm Looking for a new role. If hiring, please reach out!;
+ - **Follow me on** [Linkedin](https://www.linkedin.com/in/karina-kozlowski-625535217/)
 
--  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+-  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/school/henryok/mycompany/).
 
- - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+ - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/groups/8168244/).
 
 
 
