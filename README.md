@@ -13,11 +13,7 @@
 
 -  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
-- **CAD Designer Teacher** at  [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
-
-- **3D Printer Teacher** at  [Instituto Tecnologico Beltrán](https://www.linkedin.com/in/karina-kozlowski-625535217/).
-
-- **Proyect Manager** at [Gabiart](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+ - **Co Founder Data Synergy** at [Gabiart](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
 
