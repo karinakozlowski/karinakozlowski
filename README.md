@@ -77,6 +77,18 @@
 <p align="center">
 <br/>
 <br>
+
+
+<div align="left">
+<h3> 📁 &nbsp;Proyectos destacados</h3>
+</div>
+
+| <!-- -->      | <!-- -->        |
+|:-------------:|:---------------:|
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karinakozlowski&repo=Data_Siniestros_Viales&theme=nightowl)](https://github.com/karinakozlowski/Data_Siniestros_Viales)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Data-Synergy&repo=EcoDriverNY&theme=nightowl)](https://github.com/Data-Synergy/EcoDriverNY)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=No-Country&repo=C16-103-t-DataBi&theme=nightowl)](https://github.com/No-Country/C16-103-t-DataBi)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karinakozlowski&repo=MLOPS_API&theme=nightowl)](https://github.com/karinakozlowski/MLOPS_API)|
+</div>
+
  
 | N° | Language | Role  | Deployment | Project  |  Client | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
@@ -109,6 +121,9 @@ https://www.linkedin.com/in/karina-kozlowski-625535217/
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
 https://discord.gg/SXzbtvSX
 
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Ivan2125&style=for-the-badge&color=55acb7&label=VISITANTES"/>
+</div>
 
 
 
