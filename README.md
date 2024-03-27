@@ -20,12 +20,23 @@ Evaluating KPIs and metrics is an essential aspect of my work as a Data Analyst.
 Automation is key to increasing efficiency and freeing up time for higher-value activities. As an automation advocate, I leverage advanced tools and technologies to simplify and streamline analytical processes. From data cleaning and preparation to reporting and visualizations, I look for opportunities to automate repetitive and time-consuming tasks. This not only improves productivity, but also reduces errors and ensures consistency in our analyses.
 
 
-
- - **Follow me on** [Linkedin](https://www.linkedin.com/in/karina-kozlowski-625535217/)
-
 -  **Data Science´s Mentor** at  [Henry](https://www.linkedin.com/school/henryok/mycompany/).
 
  - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/groups/8168244/).
+
+ - 
+## 📫 Contact 
+
+
+Feel free to contact me if you want to discuss exciting projects or collaborate on data initiatives!
+  
+
+ - **Follow me on** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) ;
+
+
+
+  - ![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) kozlowskikarina@gmail.com
+
 
 
 ## My Skills
@@ -109,24 +120,6 @@ Automation is key to increasing efficiency and freeing up time for higher-value 
 <br/>
 
 
-
-## 📫 Contact 
-
-
-Feel free to contact me if you want to discuss exciting projects or collaborate on data initiatives!
-
-[![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp;
-karinakozlowski@gmail.com 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) &nbsp;
-https://www.linkedin.com/in/karina-kozlowski-625535217/
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
-https://discord.gg/SXzbtvSX
-
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=karina-kozlowski&style=for-the-badge&color=55acb7&label=VISITANTES"/>
-</div>
 
 
 
