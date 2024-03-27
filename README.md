@@ -1,4 +1,4 @@
-![Banner](Assets1/fondo.png)
+![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/Banner.jpg)
 <p>
 
 
