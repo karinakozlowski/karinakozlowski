@@ -6,23 +6,26 @@
 
 
 
-## **Experience**  
+## **Experience as Data Analyst:**  
+
+Data Analyst with an approach focused on critical thinking, the evaluation of KPIs and metrics, as well as process automation. My analytical approach and experience working in cloud ecosystems have been instrumental in driving strategic decisions and optimizing business performance. My approach goes beyond simply processing data; It involves questioning, analyzing and understanding the implications behind each set of data. By taking this critical approach, I can identify trends, patterns, and potential problems that might otherwise be overlooked. This ability allows me to offer valuable insights that support informed and strategic decision making.
 
 
-  I'm Looking for a new role. If hiring, please reach out!;
+## **Evaluation of KPIs and Metrics:**
+
+Evaluating KPIs and metrics is an essential aspect of my work as a Data Analyst. I understand that these measures are not only indicators of current performance, but also compasses that guide the path to future success. Using advanced analytical tools, I identify the most relevant KPIs for each project or initiative, monitor them closely, and analyze them for opportunities for improvement. This constant evaluation ensures that our decisions are supported by accurate and relevant data, maximizing impact on the organization.
+
+## **Automation:**
+
+Automation is key to increasing efficiency and freeing up time for higher-value activities. As an automation advocate, I leverage advanced tools and technologies to simplify and streamline analytical processes. From data cleaning and preparation to reporting and visualizations, I look for opportunities to automate repetitive and time-consuming tasks. This not only improves productivity, but also reduces errors and ensures consistency in our analyses.
+
+
+
  - **Follow me on** [Linkedin](https://www.linkedin.com/in/karina-kozlowski-625535217/)
 
 -  **Data Science´s Mentor** at  [Henry](https://www.linkedin.com/school/henryok/mycompany/).
 
  - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/groups/8168244/).
-
-
-
-## My Interests
--  Data Engineering: I enjoy creating cloud arquitecture, and continually learning new technologies.
--  Machine Learning: I love exploring and applying machine learning models to solve real-world problems.
--  Practical Projects: I like working on projects that have a real impact and are goal-oriented.
-
 
 
 ## My Skills
