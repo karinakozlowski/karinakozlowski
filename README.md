@@ -106,7 +106,7 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
  
 | N° | Language | Role  | Deployment | Project  |  Client | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
-| 1. | Python | **Data Engineer** | AWS | APP | Tesla( In Process) | [Link](https://github.com/Data-Synergy/EcoDriverNY) |
+| 1. | Python | **Data Engineer** | AWS | APP | NYC2050 ( In Process) | [Link](https://github.com/Data-Synergy/EcoDriverNY) |
 | 2. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/No-Country/C16-103-t-DataBi) |
 | 3. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
 | 4. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
