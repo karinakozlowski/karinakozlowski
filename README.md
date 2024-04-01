@@ -112,7 +112,7 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
 | 4. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
 | 5. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
 | 6. | Python | **Machine Engineer** | FastApi | Tensorflow Model Traffic Classification |Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
-| 7. | Python | **Machine Engineer** | FastApi  | Spam Detector Model | Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Spam_Detector) |
+| 7. | Python | **Data Analyst** | PowerBI  | Sales Dashboard | Wallmart - Retail| [Link](https://github.com/karinakozlowski/Wallmart_Retail) |
 
 
 
