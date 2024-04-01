@@ -110,9 +110,8 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
 | 2. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/No-Country/C16-103-t-DataBi) |
 | 3. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
 | 4. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
-| 5. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
-| 6. | Python | **Machine Engineer** | FastApi | Tensorflow Model Traffic Classification |Gobierno de la Ciudad BA| [Link](https://github.com/karinakozlowski/Traffic_Sign_Classification) |
-| 7. | Python | **Data Analyst** | PowerBI  | Sales Dashboard | Wallmart - Retail| [Link](https://github.com/karinakozlowski/Wallmart_Retail) |
+| 5. | Python | **Data Analyst** | PowerBI  | Sales Dashboard | Wallmart - Retail| [Link](https://github.com/karinakozlowski/Wallmart_Retail) |
+| 6. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
 
 
 
