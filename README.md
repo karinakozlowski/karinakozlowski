@@ -24,7 +24,7 @@ Automation is key to increasing efficiency and freeing up time for higher-value 
 
  - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/groups/8168244/).
 
- - 
+
 ## 📫 Contact 
 
 
