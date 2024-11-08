@@ -1,28 +1,41 @@
 ![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/Banner.jpg)
 <p>
 
+# Karina Kozlowski
 
+## **Data Scientist | Machine Learning Specialist | Finance & Business Intelligence Expert**
 
+Data Scientist with a background in Computer Engineering from MIT and Harvard, specializing in Machine Learning applied to optimize supply chain and sales performance. With over 8 years of experience, I combine critical analysis, KPI evaluation, and process automation to transform data into high-impact strategies and decisions at Siemens.
 
+### **Experience in Corporate Data Science**
 
+Passionate about data analysis for developing predictive models and extracting actionable insights. I work with Python, SQL, Power BI, and Snowflake to build solutions that enhance efficiency and business performance in finance, sales, and logistics sectors. My role extends to teaching data science and machine learning, with experience at Harvard, MIT, and ICARO, where I cover topics like statistical modeling, data processing, and ML applications in time series.
 
-## **Experience as Data Analyst:**  
+### **Evaluation of Financial KPIs and Metrics**
 
-Data Analyst with an approach focused on critical thinking, the evaluation of KPIs and metrics, as well as process automation. My analytical approach and experience working in cloud ecosystems have been instrumental in driving strategic decisions and optimizing business performance. My approach goes beyond simply processing data; It involves questioning, analyzing and understanding the implications behind each set of data. By taking this critical approach, I can identify trends, patterns, and potential problems that might otherwise be overlooked. This ability allows me to offer valuable insights that support informed and strategic decision making.
+My approach to KPI evaluation is comprehensive and strategic. I design and monitor metrics that guide current performance and project future success, using advanced tools to identify improvement opportunities in P&L reports, profit margins, and order analysis. My reports for Latin America and collaboration with teams in Germany ensure that decisions are based on solid, relevant data.
 
+### **Process Automation and Digitalization**
 
-## **Evaluation of KPIs and Metrics:**
+I automate complex processes, from data cleaning and preparation to report generation and visualization. I have developed Python applications and Power Automate flows that streamline repetitive tasks, ensuring consistency and reducing errors. Additionally, I orchestrate data pipelines in dbt and GitLab, connected to Snowflake, to guarantee efficient and scalable data analytics workflows.
 
-Evaluating KPIs and metrics is an essential aspect of my work as a Data Analyst. I understand that these measures are not only indicators of current performance, but also compasses that guide the path to future success. Using advanced analytical tools, I identify the most relevant KPIs for each project or initiative, monitor them closely, and analyze them for opportunities for improvement. This constant evaluation ensures that our decisions are supported by accurate and relevant data, maximizing impact on the organization.
+### **Highlighted Projects**
 
-## **Automation:**
+- **Migration to Snowflake:** Automated balance sheet consolidation and reporting in Big Data environments.
+- **Regional KPI Development:** Implemented finance reports for Siemens in Latin America, including sales and logistics analysis.
+- **Data Science Teaching and Mentorship:** Created curricula at ICARO and MIT for diploma programs in Machine Learning, Python, and time series analysis.
+- **Automation with Python and Power BI:** Implemented SAP robots and Power Automate workflows for account statements and automated email deliveries.
 
-Automation is key to increasing efficiency and freeing up time for higher-value activities. As an automation advocate, I leverage advanced tools and technologies to simplify and streamline analytical processes. From data cleaning and preparation to reporting and visualizations, I look for opportunities to automate repetitive and time-consuming tasks. This not only improves productivity, but also reduces errors and ensures consistency in our analyses.
+### **Technical Skills**
 
+- **Programming Languages:** Python, SQL, DAX
+- **BI and Data Warehousing Tools:** Power BI, Snowflake, dbt, Mendix
+- **Machine Learning:** Predictive models, regression, classification, anomaly detection
+- **Automation and Orchestration:** Power Automate, IPy, GitLab
+- **Documentation and Presentation:** Financial reports, English presentations, process documentation in schematics.
 
--  **Data Science´s Mentor** at  [Henry](https://www.linkedin.com/school/henryok/mycompany/).
+Always looking for opportunities to innovate, enhance performance, and create value through data science.
 
- - **Co Founder Data Synergy** at [Data Synergy](https://www.linkedin.com/groups/8168244/).
 
 
 ## 📫 Contact 
@@ -34,9 +47,7 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
  - **Follow me on** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) ;
 
 
-
   - ![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) kozlowskikarina@gmail.com
-
 
 
 ## My Skills
