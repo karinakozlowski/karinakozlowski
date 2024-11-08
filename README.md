@@ -9,7 +9,7 @@ Data Scientist with a background in Computer Engineering from MIT and Harvard, s
 
 ### **Experience in Corporate Data Science**
 
-Passionate about data analysis for developing predictive models and extracting actionable insights. I work with Python, SQL, Power BI, and Snowflake to build solutions that enhance efficiency and business performance in finance, sales, and logistics sectors. My role extends to teaching data science and machine learning, with experience at Harvard, MIT, and ICARO, where I cover topics like statistical modeling, data processing, and ML applications in time series.
+Passionate about data analysis for developing predictive models, extracting actionable insights, and leveraging Natural Language Processing (NLP) models like ChatGPT to enhance communication and interaction within information systems. I work with Python, SQL, Power BI, and Snowflake to build solutions that improve efficiency and business performance in finance, sales, and logistics sectors. My role extends to teaching data science and machine learning, with experience at Harvard, MIT, and ICARO, where I cover topics like statistical modeling, data processing, and ML applications in time series.
 
 ### **Evaluation of Financial KPIs and Metrics**
 
@@ -21,6 +21,7 @@ I automate complex processes, from data cleaning and preparation to report gener
 
 ### **Highlighted Projects**
 
+- **NLP for Communication Enhancement:** Implemented ChatGPT models at Siemens to enhance interaction and communication within information systems.
 - **Migration to Snowflake:** Automated balance sheet consolidation and reporting in Big Data environments.
 - **Regional KPI Development:** Implemented finance reports for Siemens in Latin America, including sales and logistics analysis.
 - **Data Science Teaching and Mentorship:** Created curricula at ICARO and MIT for diploma programs in Machine Learning, Python, and time series analysis.
@@ -31,8 +32,12 @@ I automate complex processes, from data cleaning and preparation to report gener
 - **Programming Languages:** Python, SQL, DAX
 - **BI and Data Warehousing Tools:** Power BI, Snowflake, dbt, Mendix
 - **Machine Learning:** Predictive models, regression, classification, anomaly detection
+- **NLP and Chatbot Development:** ChatGPT models, Siemens-specific NLP solutions
 - **Automation and Orchestration:** Power Automate, IPy, GitLab
 - **Documentation and Presentation:** Financial reports, English presentations, process documentation in schematics.
+
+Always looking for opportunities to innovate, enhance performance, and create value through data science.
+
 
 Always looking for opportunities to innovate, enhance performance, and create value through data science.
 
