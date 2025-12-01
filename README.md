@@ -3,45 +3,78 @@
 
 # Karina Kozlowski
 
-## **Data Scientist | Machine Learning Specialist | Finance & Business Intelligence Expert**
+## **Data-Driven Finance | BI & Cloud Automation | Advanced Analytics**
 
-Data Scientist with a background in Computer Engineering from MIT and Harvard, specializing in Machine Learning applied to optimize supply chain and sales performance. With over 8 years of experience, I combine critical analysis, KPI evaluation, and process automation to transform data into high-impact strategies and decisions at Siemens.
+I transform business challenges into scalable digital solutions that strengthen decision-making and operational efficiency. My work blends financial expertise with automation, analytics, and modern cloud architecture.
 
-### **Experience in Corporate Data Science**
+<br>
+<p align="center">
+<br/>
 
-Passionate about data analysis for developing predictive models, extracting actionable insights, and leveraging Natural Language Processing (NLP) models like ChatGPT to enhance communication and interaction within information systems. I work with Python, SQL, Power BI, and Snowflake to build solutions that improve efficiency and business performance in finance, sales, and logistics sectors. My role extends to teaching data science and machine learning, with experience at Harvard, MIT, and ICARO, where I cover topics like statistical modeling, data processing, and ML applications in time series.
 
-### **Evaluation of Financial KPIs and Metrics**
+### **How I Work**
 
-My approach to KPI evaluation is comprehensive and strategic. I design and monitor metrics that guide current performance and project future success, using advanced tools to identify improvement opportunities in P&L reports, profit margins, and order analysis. My reports for Latin America and collaboration with teams in Germany ensure that decisions are based on solid, relevant data.
+- **Discovery & Digitalization:** Identifying needs, defining goals, and shaping the right digital strategy.
 
-### **Process Automation and Digitalization**
+- **Data Product Development:** Designing, building, and deploying reliable data products in the cloud.
 
-I automate complex processes, from data cleaning and preparation to report generation and visualization. I have developed Python applications and Power Automate flows that streamline repetitive tasks, ensuring consistency and reducing errors. Additionally, I orchestrate data pipelines in dbt and GitLab, connected to Snowflake, to guarantee efficient and scalable data analytics workflows.
+- **Operations & Continuous Improvement:** Ensuring scalability, stability, and continuous optimization.
+  
+<br>
+<p align="center">
+<br/>
+
+
+### **What I Build**
+
+- **Cloud Architecture:** End-to-end data pipelines, cloud integrations, and automated ecosystems (AWS, Snowflake).
+  
+- **Financial & Sales Reporting:** Power BI dashboards and automated macro reports for each business area.
+  
+- **Accounting Applications:** Tools and apps that support accounting processes and financial operations.
+  
+- **Automation & RPA:** Reporting apps, distribution flows, and workflow automation that reduce manual effort.
+<br>
+<p align="center">
+<br/>
+  
 
 ### **Highlighted Projects**
 
 - **NLP for Communication Enhancement:** Implemented ChatGPT models at Siemens to enhance interaction and communication within information systems.
+  
 - **Migration to Snowflake:** Automated balance sheet consolidation and reporting in Big Data environments.
+  
 - **Regional KPI Development:** Implemented finance reports for Siemens in Latin America, including sales and logistics analysis.
+  
 - **Data Science Teaching and Mentorship:** Created curricula at ICARO and MIT for diploma programs in Machine Learning, Python, and time series analysis.
+  
 - **Automation with Python and Power BI:** Implemented SAP robots and Power Automate workflows for account statements and automated email deliveries.
+ <br>
+<p align="center">
+<br/> 
 
 ### **Technical Skills**
 
 - **Programming Languages:** Python, SQL, DAX
+  
 - **BI and Data Warehousing Tools:** Power BI, Snowflake, dbt, Mendix
+  
 - **Machine Learning:** Predictive models, regression, classification, anomaly detection
+  
 - **NLP and Chatbot Development:** ChatGPT models, Siemens-specific NLP solutions
+  
 - **Automation and Orchestration:** Power Automate, IPy, GitLab
+  
 - **Documentation and Presentation:** Financial reports, English presentations, process documentation in schematics.
 
+  
+
 Always looking for opportunities to innovate, enhance performance, and create value through data science.
 
-
-Always looking for opportunities to innovate, enhance performance, and create value through data science.
-
-
+<br>
+<p align="center">
+<br/>
 
 ## 📫 Contact 
 
@@ -53,6 +86,10 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
 
 
   - ![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) kozlowskikarina@gmail.com
+
+<br>
+<p align="center">
+<br/>
 
 
 ## My Skills
@@ -95,30 +132,18 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
 - Cloud technologies;
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
  [Clevercloud]()
-
-
-
-  
   
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Active Repos</b>
+
 <br>
 <p align="center">
 <br/>
 <br>
 
-
 <div align="left">
-<h3> 📁 &nbsp;Proyectos destacados</h3>
+<h3> 📁 &nbsp;Active Projects</h3>
 </div>
-
-| <!-- -->      | <!-- -->        |
-|:-------------:|:---------------:|
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karinakozlowski&repo=Data_Siniestros_Viales&theme=nightowl)](https://github.com/karinakozlowski/Data_Siniestros_Viales)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Data-Synergy&repo=EcoDriverNY&theme=nightowl)](https://github.com/Data-Synergy/EcoDriverNY)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=No-Country&repo=C16-103-t-DataBi&theme=nightowl)](https://github.com/No-Country/C16-103-t-DataBi)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karinakozlowski&repo=MLOPS_API&theme=nightowl)](https://github.com/karinakozlowski/MLOPS_API)|
-</div>
-
  
 | N° | Language | Role  | Deployment | Project  |  Client | Link |
 | ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
