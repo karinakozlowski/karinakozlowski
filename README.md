@@ -7,19 +7,6 @@
 
 I transform business challenges into scalable digital solutions that strengthen decision-making and operational efficiency. My work blends financial expertise with automation, analytics, and modern cloud architecture.
 
-<br>
-<p align="center">
-<br/>
-
-
-### **How I Work**
-
-- **Discovery & Digitalization:** Identifying needs, defining goals, and shaping the right digital strategy.
-
-- **Data Product Development:** Designing, building, and deploying reliable data products in the cloud.
-
-- **Operations & Continuous Improvement:** Ensuring scalability, stability, and continuous optimization.
-  
 
 ## My Skills
 
@@ -63,15 +50,15 @@ I transform business challenges into scalable digital solutions that strengthen 
  [Clevercloud]()
   
 </p>
-
-
 <br>
 <p align="center">
 <br/>
-<br>
+
+
 
 <div align="left">
-<h3> 📁 &nbsp;Active Projects</h3>
+  
+## Active Projects
 </div>
  
 | N° | Language | Role  | Deployment | Project  |  Client | Link |
@@ -82,11 +69,23 @@ I transform business challenges into scalable digital solutions that strengthen 
 | 4. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
 | 5. | Python | **Data Analyst** | PowerBI  | Sales Dashboard | Wallmart - Retail| [Link](https://github.com/karinakozlowski/Wallmart_Retail) |
 | 6. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
+<br>
+<p align="center">
+<br/>
 
 
+## How I Work 
 
+- **Discovery & Digitalization:** Identifying needs, defining goals, and shaping the right digital strategy.
 
-### **What I Build**
+- **Data Product Development:** Designing, building, and deploying reliable data products in the cloud.
+
+- **Operations & Continuous Improvement:** Ensuring scalability, stability, and continuous optimization.
+ <br>
+<p align="center">
+<br/> 
+
+## What I Build
 
 - **Cloud Architecture:** End-to-end data pipelines, cloud integrations, and automated ecosystems (AWS, Snowflake).
   
@@ -98,9 +97,8 @@ I transform business challenges into scalable digital solutions that strengthen 
 <br>
 <p align="center">
 <br/>
-  
 
-### **Highlighted Projects**
+## Highlighted Projects
 
 - **NLP for Communication Enhancement:** Implemented ChatGPT models at Siemens to enhance interaction and communication within information systems.
   
@@ -111,11 +109,11 @@ I transform business challenges into scalable digital solutions that strengthen 
 - **Data Science Teaching and Mentorship:** Created curricula at ICARO and MIT for diploma programs in Machine Learning, Python, and time series analysis.
   
 - **Automation with Python and Power BI:** Implemented SAP robots and Power Automate workflows for account statements and automated email deliveries.
- <br>
+<br>
 <p align="center">
-<br/> 
-
-### **Technical Skills**
+<br/>
+  
+## Technical Skills
 
 - **Programming Languages:** Python, SQL, DAX
   
@@ -129,14 +127,16 @@ I transform business challenges into scalable digital solutions that strengthen 
   
 - **Documentation and Presentation:** Financial reports, English presentations, process documentation in schematics.
 
+  <br>
+<p align="center">
+<br/>
   
-
 Always looking for opportunities to innovate, enhance performance, and create value through data science.
 
 <br>
 <p align="center">
 <br/>
-
+  
 ## 📫 Contact 
 
 
@@ -154,12 +154,7 @@ Feel free to contact me if you want to discuss exciting projects or collaborate 
 
 
 
-
-
-
 <br/>
-
-
 
 
 
