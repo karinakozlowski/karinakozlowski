@@ -1,4 +1,4 @@
-![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/fondo_karina.png)
+![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/1781127025842.jpg)
 <p>
 
 # Karina Kozlowski
