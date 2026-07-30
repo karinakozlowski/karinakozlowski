@@ -60,15 +60,16 @@ I transform business challenges into scalable digital solutions that strengthen 
   
 ## Active Projects
 </div>
- 
-| N° | Language | Role  | Deployment | Project  |  Client | Link |
-| ---- | --- | ---------- |---------- | --------- | ------------ |------------ |
-| 1. | Python | **Data Engineer** | AWS | APP | NYC2050 ( In Process) | [Link](https://github.com/Data-Synergy/EcoDriverNY) |
-| 2. | Python | **Machine Engineer** | Streamlit | Fintech Fraud Transactions  | No Country| [Link](https://github.com/No-Country/C16-103-t-DataBi) |
-| 3. | Python | **Machine Engineer** | FastApi | API  |Steam Games | [Link](https://github.com/karinakozlowski/MLOPS_API) |
-| 4. | Python | **Data Analyst** | CleverCloud - Streamlit  | Dashboard  |Gobierno de la Ciudad BA |  [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales) |
-| 5. | Python | **Data Analyst** | PowerBI  | Sales Dashboard | Wallmart - Retail| [Link](https://github.com/karinakozlowski/Wallmart_Retail) |
-| 6. | Python | **Data Analyst** | Streamlit |  Dashboard | Johnson & Johnson |  [Link](https://github.com/karinakozlowski/Online_Retail) |
+
+| N° | Language | Role                          | Deployment               | Project                            | Client                                | Link                                                                          |
+| -: | -------- | ----------------------------- | ------------------------ | ---------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------- |
+| 1. | Python   | **AI Engineer**               | —                        | IA Dashboard                       | No Country                            | [Link](https://github.com/karinakozlowski/IA_Dashboard)                       |
+| 2. | Python   | **AI Engineer**               | —                        | AI Enterprise Intelligent Business | No Country                            | [Link](https://github.com/karinakozlowski/AI-Interprise-Intellegent-Business) |
+| 3. | Python   | **Data Engineer**             | AWS                      | APP                                | NYC2050 (In Process)                  | [Link](https://github.com/Data-Synergy/EcoDriverNY)                           |
+| 4. | Python   | **Machine Learning Engineer** | Streamlit                | Fintech Fraud Transactions         | No Country                            | [Link](https://github.com/No-Country/C16-103-t-DataBi)                        |
+| 5. | Python   | **Data Analyst**              | Clever Cloud – Streamlit | Dashboard                          | Gobierno de la Ciudad de Buenos Aires | [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales)             |
+
+
 <br>
 <p align="center">
 <br/>
