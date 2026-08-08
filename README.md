@@ -7,47 +7,46 @@
 
 I transform business challenges into scalable digital solutions that strengthen decision-making and operational efficiency. My work blends financial expertise with automation, analytics, and modern cloud architecture.
 
-
 ## My Skills
 
-- Programming languages:
-   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- Libraries;
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-- Data Engineering tools: 
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- BigData: 
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
-  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
-  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
-- BI Analyst;
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+- Workflow Automation & Low-Code / No-Code:
+
+  ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+  ![Zapier](https://img.shields.io/badge/-Zapier-333333?style=flat&logo=zapier)
+  ![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)
+  ![Airtable](https://img.shields.io/badge/-Airtable-333333?style=flat&logo=airtable)
+
+- ERP & Finance Systems:
+
+  ![SAP](https://img.shields.io/badge/-SAP-333333?style=flat&logo=sap)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+  ![NetSuite](https://img.shields.io/badge/-NetSuite-333333?style=flat&logo=oracle)
+
+- Data Warehouse & Data Platforms:
+
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
+
+- Business Intelligence:
+
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-- IDE & version control;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-- Cloud technologies;
-  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
- [Clevercloud]()
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Looker](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker)
+
+- Finance Operations:
+
+  ![Billing](https://img.shields.io/badge/-Billing-333333?style=flat)
+  ![Collections](https://img.shields.io/badge/-Collections-333333?style=flat)
+  ![Reconciliations](https://img.shields.io/badge/-Reconciliations-333333?style=flat)
+  ![Revenue Operations](https://img.shields.io/badge/-Revenue%20Operations-333333?style=flat)
+  ![Financial Reporting](https://img.shields.io/badge/-Financial%20Reporting-333333?style=flat)
+
+- Workflow Architecture & Controls:
+
+  ![Workflow Architecture](https://img.shields.io/badge/-Workflow%20Architecture-333333?style=flat)
+  ![Process Automation](https://img.shields.io/badge/-Process%20Automation-333333?style=flat)
+  ![Data Quality](https://img.shields.io/badge/-Data%20Quality-333333?style=flat)
+  ![Financial Controls](https://img.shields.io/badge/-Financial%20Controls-333333?style=flat)
+  ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-333333?style=flat)
   
 </p>
 <br>
@@ -61,72 +60,79 @@ I transform business challenges into scalable digital solutions that strengthen 
 ## Active Projects
 </div>
 
-| N° | Language | Role                          | Deployment               | Project                            | Client                                | Link                                                                          |
-| -: | -------- | ----------------------------- | ------------------------ | ---------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------- |
-| 1. | Python   | **AI Engineer**               | —                        | IA Dashboard                       | No Country                            | [Link](https://github.com/karinakozlowski/IA_Dashboard)                       |
-| 2. | Python   | **AI Engineer**               | —                        | AI Enterprise Intelligent Business | No Country                            | [Link](https://github.com/karinakozlowski/AI-Interprise-Intellegent-Business) |
-| 3. | Python   | **Data Engineer**             | AWS                      | APP                                | NYC2050 (In Process)                  | [Link](https://github.com/Data-Synergy/EcoDriverNY)                           |
-| 4. | Python   | **Machine Learning Engineer** | Streamlit                | Fintech Fraud Transactions         | No Country                            | [Link](https://github.com/No-Country/C16-103-t-DataBi)                        |
-| 5. | Python   | **Data Analyst**              | Clever Cloud – Streamlit | Dashboard                          | Gobierno de la Ciudad de Buenos Aires | [Link](https://github.com/karinakozlowski/Data_Siniestros_Viales)             |
+## Projects
 
+| N° | Language | Role | Deployment | Project | Client / Context | Link |
+|---:|----------|------|------------|---------|------------------|------|
+| 1. | Python | **AI Engineer / Project Manager** | LangGraph · Oracle · Docker | AI Intelligent Dashboard | No Country | [Repository](https://github.com/karinakozlowski/IA_Dashboard) |
+| 2. | Python | **AI Engineer / Project Manager** | AWS | Enterprise AI Intelligent Business | No Country | [Repository](https://github.com/karinakozlowski/AI-Interprise-Intellegent-Business) |
+| 3. | Python | **Data Engineer** | AWS | EcoDriverNY - ML Application | NYC2050 / Data Synergy | [Repository](https://github.com/Data-Synergy/EcoDriverNY) |
+| 4. | Python | **Machine Learning Engineer** | Streamlit | FinTech Fraud Detection | No Country | [Repository](https://github.com/No-Country/C16-103-t-DataBi) |
+| 5. | Python | **AI Automation Architect** | n8n · APIs · Docker | AI Finance Workflow Orchestrator | Enterprise Finance | *Coming Soon* |
+| 6. | Python / SQL | **AI & RevOps Architect** | Snowflake · Power BI · Cloud | Intelligent RevOps Dashboard | Revenue Operations | *Coming Soon* |
+| 7. | Python | **Enterprise AI Architect** | LangGraph · LLM · APIs | Multi-Agent Enterprise Operations | Enterprise AI | *Coming Soon* |
+| 8. | Python / SQL | **Cloud Data Architect** | Snowflake · AWS | Finance Cloud Migration Architecture | Finance Transformation | *Coming Soon* |
+| 9. | Low-Code / AI | **Workflow Automation Architect** | n8n · Power Automate · APIs | Finance Operations Automation Hub | Finance Operations | *Coming Soon* |
+| 10. | Python / SQL | **Data & Automation Engineer** | SAP · Snowflake · Power BI | Automated Reconciliation & Controls Platform | Finance Operations | *Coming Soon* |
 
 <br>
 <p align="center">
 <br/>
 
 
-## How I Work 
+## How I Work
 
-- **Discovery & Digitalization:** Identifying needs, defining goals, and shaping the right digital strategy.
+- **Cross-Functional Leadership:** Leading technical teams and business stakeholders across Finance, Accounting, IT, Data, and Operations to align requirements and implementation.
 
-- **Data Product Development:** Designing, building, and deploying reliable data products in the cloud.
+- **Workflow Architecture & Automation:** Designing scalable Finance Operations workflows with clear business logic, approvals, validations, exception handling, and system integrations.
 
-- **Operations & Continuous Improvement:** Ensuring scalability, stability, and continuous optimization.
+- **Cross-Functional Leadership:** Leading technical teams and business stakeholders across Finance, Accounting, IT, Data, and Operations to align requirements and implementation.
+
+- **Data Quality & Controls:** Ensuring consistency, traceability, accuracy, and reliability across financial systems, reporting layers, and automated processes.
+
+- **Continuous Improvement:** Monitoring process performance, optimizing workflows, and evolving automation solutions to support scalable and efficient operations.
  <br>
 <p align="center">
 <br/> 
 
+
 ## What I Build
 
-- **Cloud Architecture:** End-to-end data pipelines, cloud integrations, and automated ecosystems (AWS, Snowflake).
-  
-- **Financial & Sales Reporting:** Power BI dashboards and automated macro reports for each business area.
-  
-- **Accounting Applications:** Tools and apps that support accounting processes and financial operations.
-  
-- **Automation & RPA:** Reporting apps, distribution flows, and workflow automation that reduce manual effort.
+- **AI & Automation Architecture:** End-to-end intelligent automation solutions combining AI, workflow orchestration, business logic, system integrations, and operational controls.
+
+- **Workflow Automation:** Scalable workflows with triggers, approvals, validations, exception handling, routing, notifications, and automated business rules.
+
+- **AI-Enabled Operations:** Intelligent processes using AI agents and Generative AI to classify, validate, enrich, route, analyze, and support operational decision-making.
+
+- **Finance Operations Automation:** Automated workflows supporting billing, collections, reconciliations, financial controls, reporting, and Revenue Operations.
+
+- **RevOps Dashboards:** Automated dashboards integrating finance, sales, billing, collections, operational KPIs, workflow metrics, alerts, and AI-driven insights.
+
+- **System & Data Integration:** Connected automation ecosystems across ERP platforms, APIs, databases, Snowflake, BI tools, and cloud environments.
+
+- **Controls & Data Quality Frameworks:** Automated validation, reconciliation, monitoring, exception management, and traceability across workflows and systems.
+
+- **Scalable Automation Frameworks:** Reusable architectures designed for multi-process, multi-entity, and cross-functional operations.
 <br>
 <p align="center">
 <br/>
 
 ## Highlighted Projects
 
-- **NLP for Communication Enhancement:** Implemented ChatGPT models at Siemens to enhance interaction and communication within information systems.
-  
-- **Migration to Snowflake:** Automated balance sheet consolidation and reporting in Big Data environments.
-  
-- **Regional KPI Development:** Implemented finance reports for Siemens in Latin America, including sales and logistics analysis.
-  
-- **Data Science Teaching and Mentorship:** Created curricula at ICARO and MIT for diploma programs in Machine Learning, Python, and time series analysis.
-  
-- **Automation with Python and Power BI:** Implemented SAP robots and Power Automate workflows for account statements and automated email deliveries.
+- **Enterprise AI Software:** Designed and implemented AI-enabled enterprise solutions integrating business workflows, data platforms, APIs, and automation to support operational decision-making and process efficiency.
+
+- **RevOps Dashboard & Automation:** Developed Revenue Operations dashboards integrating sales, finance, billing, collections, and operational KPIs, with automated workflows and decision-support analytics.
+
+- **Cloud Data Migration:** Led the migration and modernization of financial and operational data processes to Snowflake, redesigning pipelines, integrations, reporting layers, and scalable cloud-based architectures.
+
+- **AI & Workflow Automation:** Built intelligent automation solutions combining AI, workflow orchestration, business rules, validations, exception handling, and system integrations across enterprise processes.
+
+- **Finance Operations Digitalization:** Automated reporting, reconciliations, controls, and multi-system finance workflows, reducing manual effort and improving data consistency, traceability, and scalability.
 <br>
 <p align="center">
 <br/>
   
-## Technical Skills
 
-- **Programming Languages:** Python, SQL, DAX
-  
-- **BI and Data Warehousing Tools:** Power BI, Snowflake, dbt, Mendix
-  
-- **Machine Learning:** Predictive models, regression, classification, anomaly detection
-  
-- **NLP and Chatbot Development:** ChatGPT models, Siemens-specific NLP solutions
-  
-- **Automation and Orchestration:** Power Automate, IPy, GitLab
-  
-- **Documentation and Presentation:** Financial reports, English presentations, process documentation in schematics.
 
   <br>
 <p align="center">
