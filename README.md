@@ -3,9 +3,9 @@
 
 # Karina Kozlowski
 
-## **Data-Driven Finance | BI & Cloud Automation | Advanced Analytics**
+## **Portfolio focused on AI, workflow automation**
 
-I transform business challenges into scalable digital solutions that strengthen decision-making and operational efficiency. My work blends financial expertise with automation, analytics, and modern cloud architecture.
+Portfolio focused on AI, workflow automation, RevOps, finance operations, and cloud data solutions. It includes enterprise AI architectures, automated business workflows, revenue dashboards, cloud migrations, and finance digitalization projects using technologies such as Python, LangGraph, Claude, Llama, n8n, Power Automate, Snowflake, Databricks, AWS, Salesforce, Attio, SAP, Power BI, Oracle, and Docker.
 
 ## My Skills
 
