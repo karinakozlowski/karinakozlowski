@@ -64,16 +64,17 @@ Portfolio focused on AI, workflow automation, RevOps, finance operations, and cl
 
 | N° | Language | Role | Deployment | Project | Client / Context | Link |
 |---:|----------|------|------------|---------|------------------|------|
-| 1. | Python | **AI Engineer / Project Manager** | LangGraph · Oracle · Docker | AI Intelligent Dashboard | No Country | [Repository](https://github.com/karinakozlowski/IA_Dashboard) |
-| 2. | Python | **AI Engineer / Project Manager** | AWS | Enterprise AI Intelligent Business | No Country | [Repository](https://github.com/karinakozlowski/AI-Interprise-Intellegent-Business) |
-| 3. | Python | **Data Engineer** | AWS | EcoDriverNY - ML Application | NYC2050 / Data Synergy | [Repository](https://github.com/Data-Synergy/EcoDriverNY) |
-| 4. | Python | **Machine Learning Engineer** | Streamlit | FinTech Fraud Detection | No Country | [Repository](https://github.com/No-Country/C16-103-t-DataBi) |
-| 5. | Python | **AI Automation Architect** | n8n · APIs · Docker | AI Finance Workflow Orchestrator | Enterprise Finance | *Coming Soon* |
-| 6. | Python / SQL | **AI & RevOps Architect** | Snowflake · Power BI · Cloud | Intelligent RevOps Dashboard | Revenue Operations | *Coming Soon* |
-| 7. | Python | **Enterprise AI Architect** | LangGraph · LLM · APIs | Multi-Agent Enterprise Operations | Enterprise AI | *Coming Soon* |
-| 8. | Python / SQL | **Cloud Data Architect** | Snowflake · AWS | Finance Cloud Migration Architecture | Finance Transformation | *Coming Soon* |
-| 9. | Low-Code / AI | **Workflow Automation Architect** | n8n · Power Automate · APIs | Finance Operations Automation Hub | Finance Operations | *Coming Soon* |
-| 10. | Python / SQL | **Data & Automation Engineer** | SAP · Snowflake · Power BI | Automated Reconciliation & Controls Platform | Finance Operations | *Coming Soon* |
+| 1. | Java / TypeScript | **AI Engineer / Project Manager** | AWS · Docker · PostgreSQL | Ghost Load — Data Center Efficiency Platform | No Country | [Repository](https://github.com/No-Country-simulation/S07-26-Team-26/) |
+| 2. | Python | **AI Engineer / Project Manager** | LangGraph · Oracle · Docker | AI Intelligent Dashboard | No Country | [Repository](https://github.com/karinakozlowski/IA_Dashboard) |
+| 3. | Python | **AI Engineer / Project Manager** | AWS | Enterprise AI Intelligent Business | No Country | [Repository](https://github.com/karinakozlowski/AI-Interprise-Intellegent-Business) |
+| 4. | Python | **Data Engineer** | AWS | EcoDriverNY - ML Application | NYC2050 / Data Synergy | [Repository](https://github.com/Data-Synergy/EcoDriverNY) |
+| 5. | Python | **Machine Learning Engineer** | Streamlit | FinTech Fraud Detection | No Country | [Repository](https://github.com/No-Country/C16-103-t-DataBi) |
+| 6. | Python | **AI Automation Architect** | n8n · APIs · Docker | AI Finance Workflow Orchestrator | Enterprise Finance | *Coming Soon* |
+| 7. | Python / SQL | **AI & RevOps Architect** | Snowflake · Power BI · Cloud | Intelligent RevOps Dashboard | Revenue Operations | *Coming Soon* |
+| 8. | Python | **Enterprise AI Architect** | LangGraph · LLM · APIs | Multi-Agent Enterprise Operations | Enterprise AI | *Coming Soon* |
+| 9. | Python / SQL | **Cloud Data Architect** | Snowflake · AWS | Finance Cloud Migration Architecture | Finance Transformation | *Coming Soon* |
+| 10. | Low-Code / AI | **Workflow Automation Architect** | n8n · Power Automate · APIs | Finance Operations Automation Hub | Finance Operations | *Coming Soon* |
+| 11. | Python / SQL | **Data & Automation Engineer** | SAP · Snowflake · Power BI | Automated Reconciliation & Controls Platform | Finance Operations | *Coming Soon* |
 
 <br>
 <p align="center">
