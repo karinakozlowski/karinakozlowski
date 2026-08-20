@@ -1,5 +1,13 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+    <img src="Assets1/linkedin.png" alt="LinkedIn" width="200"/>
+  </a>
+</p>
+
 ![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/PortfolioKari.png)
 <p>
+
+
 
 # Karina Kozlowski
 
