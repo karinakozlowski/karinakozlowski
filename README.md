@@ -1,4 +1,4 @@
-![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/Portfolio_linkedin_V2.png)
+![Banner](https://github.com/karinakozlowski/karinakozlowski/blob/main/Assets1/1_Portfolio.png)
 <p>
 
 # Karina Kozlowski
